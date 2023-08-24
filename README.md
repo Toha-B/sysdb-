@@ -16,5 +16,5 @@
 
 2. [Работа с данными (DDL/DML)](https://github.com/Toha-B/sysdb-/blob/main/12-02.md)
 
-3. [SQL. Часть 1]()
+3. [SQL. Часть 1](https://github.com/Toha-B/sysdb-/blob/main/12-03.md)
    
