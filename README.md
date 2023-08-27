@@ -18,4 +18,4 @@
 
 3. [SQL. Часть 1](https://github.com/Toha-B/sysdb-/blob/main/12-03.md)
    
-4. [SQL. Часть 2]()
+4. [SQL. Часть 2](https://github.com/Toha-B/sysdb-/blob/main/12-04.md)
