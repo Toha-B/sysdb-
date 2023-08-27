@@ -20,4 +20,4 @@
    
 4. [SQL. Часть 2](https://github.com/Toha-B/sysdb-/blob/main/12-04.md)
 
-5. [Индексы]()
+5. [Индексы](https://github.com/Toha-B/sysdb-/blob/main/12-05.md)
