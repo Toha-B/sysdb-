@@ -1,5 +1,10 @@
 # Домашние задания
 
+## 10. Отказоустойчивость
+
+1.[Disaster Recovery. FHRP и Keepalived]()
+
+
 ## 11. Модуль «Системы хранения и передачи данных
 
 1. [Базы данных, их типы](https://github.com/Toha-B/sysdb-/blob/main/11-01.md).
