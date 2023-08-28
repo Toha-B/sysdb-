@@ -2,7 +2,9 @@
 
 ## 10. Отказоустойчивость
 
-1.[Disaster Recovery. FHRP и Keepalived]()
+1. [Disaster Recovery. FHRP и Keepalived]()
+
+2. [Кластеризация и балансировка нагрузки]()
 
 
 ## 11. Модуль «Системы хранения и передачи данных
