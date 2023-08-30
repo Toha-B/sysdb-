@@ -2,7 +2,7 @@
 
 ## 10. Отказоустойчивость
 
-1. [Disaster Recovery. FHRP и Keepalived]()
+1. [Disaster Recovery. FHRP и Keepalived](https://github.com/Toha-B/sysdb-/blob/main/10-01.md)
 
 2. [Кластеризация и балансировка нагрузки]()
 
