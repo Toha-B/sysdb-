@@ -4,7 +4,7 @@
 
 1. [Disaster Recovery. FHRP и Keepalived](https://github.com/Toha-B/sysdb-/blob/main/10-01.md)
 
-2. [Кластеризация и балансировка нагрузки]()
+2. [Кластеризация и балансировка нагрузки](https://github.com/Toha-B/sysdb-/blob/main/10-02.md)
 
 3. [Резервное копирование]()
 
