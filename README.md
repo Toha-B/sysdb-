@@ -44,7 +44,7 @@
 
 1. [Уязвимости и атаки на информационные системы](https://github.com/Toha-B/sysdb-/blob/main/13-01.md)
 
-2. [Защита хоста]()
+2. [Защита хоста](https://github.com/Toha-B/sysdb-/blob/main/13-02.md)
 
 3. [Защита сети]()
 
