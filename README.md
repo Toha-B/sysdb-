@@ -46,5 +46,5 @@
 
 2. [Защита хоста](https://github.com/Toha-B/sysdb-/blob/main/13-02.md)
 
-3. [Защита сети]()
+3. [Защита сети](https://github.com/Toha-B/sysdb-/blob/main/13-03.md)
 
