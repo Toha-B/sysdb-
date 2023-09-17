@@ -4,6 +4,8 @@
 
 1. [Переменные и условные операторы](https://github.com/Toha-B/sysdb-/blob/main/06-01.md)
 
+2. [Циклы и функции](https://github.com/Toha-B/sysdb-/blob/main/06-01.md)
+
 ## 10. Отказоустойчивость
 
 1. [Disaster Recovery. FHRP и Keepalived](https://github.com/Toha-B/sysdb-/blob/main/10-01.md)
