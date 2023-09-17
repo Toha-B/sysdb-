@@ -4,7 +4,7 @@
 
 1. [Переменные и условные операторы](https://github.com/Toha-B/sysdb-/blob/main/06-01.md)
 
-2. [Циклы и функции](https://github.com/Toha-B/sysdb-/blob/main/06-01.md)
+2. [Циклы и функции](https://github.com/Toha-B/sysdb-/blob/main/06-02.md)
 
 ## 10. Отказоустойчивость
 
